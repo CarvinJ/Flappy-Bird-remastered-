@@ -36,7 +36,8 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets/Scenes/BirdController.cs" />
+     <Compile Include="Assets/BirdController.cs" />
+     <Compile Include="Assets/PipesContrllor.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>

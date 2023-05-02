@@ -1,2 +1,6 @@
-# Starting compiling Assembly-CSharp.dll
-/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-93cbdff36c3d94b6aaae6d468a1494fe
+# Starting compiling UnityEngine.TestRunner.dll
+/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-d5bae23b9272048cc8d3cd46c6fbe382
+# Starting compiling UnityEngine.UI.dll
+/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-05fc415acd7f24bf6813334f4a70a381
+# Starting compiling UnityEditor.TestRunner.dll
+/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-dba32626a291b48858f51d2791680fb2
