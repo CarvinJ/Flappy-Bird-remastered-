@@ -1,6 +1,70 @@
 # Starting compiling UnityEngine.TestRunner.dll
-/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-d5bae23b9272048cc8d3cd46c6fbe382
+/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-10652995b2788426aaffb7ced106aa93
 # Starting compiling UnityEngine.UI.dll
-/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-05fc415acd7f24bf6813334f4a70a381
+/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-385475f5adf10410bae7b53aba5d68cd
 # Starting compiling UnityEditor.TestRunner.dll
-/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-dba32626a291b48858f51d2791680fb2
+/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-82e3a7d3000fa4ab2bd497bb8e03751e
+# Starting compiling UnityEditor.UI.dll
+/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-aabc6a55b8bea43588bdf03e416f4569
+# Starting compiling Unity.InternalAPIEngineBridge.001.dll
+/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-21b868c8e5c1c4fa488e1accb0014720
+# Starting compiling Unity.VSCode.Editor.dll
+/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a3653ccc6c598401d8d847bb18daad35
+# Starting compiling Unity.2D.PixelPerfect.dll
+/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a469ec0c0ea6b4f66ad2e85d0fdd0751
+# Starting compiling Unity.2D.Tilemap.Editor.dll
+/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6b2f2771b85e14bec9652b11c57b88a4
+# Starting compiling PsdPlugin.dll
+/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9c0ef414d546d4e7bb1717aac7222d93
+# Starting compiling Unity.VisualStudio.Editor.dll
+/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-afd166c1562204abd9fb6a3c2243dd23
+# Starting compiling Unity.Timeline.dll
+/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c6f48356c0f0c488e8e3471e244ca231
+# Starting compiling Unity.TextMeshPro.dll
+/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e595f0cab9fe2416d9a63556d9fa43e3
+# Starting compiling Unity.2D.Sprite.Editor.dll
+/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-1a6cf3adb96e24b10b37af137d827d62
+# Starting compiling Unity.2D.Path.Editor.dll
+/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7fbfc7dc884044100beca882ce6d85e5
+# Starting compiling Unity.PlasticSCM.Editor.dll
+/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-5fa8149347212406eb6de78b4f62b6bd
+# Starting compiling Unity.Rider.Editor.dll
+/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-db355cff793584c58b9ce72c8c4f6c89
+# Starting compiling Unity.Mathematics.dll
+/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-23f082347683d4dd7ab09b8d87134621
+# Starting compiling Unity.2D.IK.Runtime.dll
+/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-2c872d65ab31349868fb432711dfd8fa
+# Starting compiling Unity.Services.Core.Editor.dll
+/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-4923cd5d9cc6b47d89c76c1340086702
+# Starting compiling Unity.2D.Animation.Triangle.Runtime.dll
+/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-70163a88c20fc4c5cb7e9245a987168c
+# Starting compiling Unity.2D.Common.Runtime.dll
+/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-895c4664566324beabbeef5d755985ae
+# Starting compiling Unity.2D.PixelPerfect.Editor.dll
+/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-1907c3802bbb041508e17cb8dde1be5b
+# Starting compiling Unity.Timeline.Editor.dll
+/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b5164e8b1981c4897bb2cd12674050f8
+# Starting compiling Unity.InternalAPIEditorBridge.001.dll
+/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-ce1e747d8b1404fae8329d000f2498a6
+# Starting compiling Unity.2D.Common.Editor.dll
+/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-24b467d40b8ce414da96fc43a4535dc2
+# Starting compiling Unity.CollabProxy.Editor.dll
+/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-45790605ce71f4e7abdaba21f4a7683d
+# Starting compiling Unity.TextMeshPro.Editor.dll
+/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0a1b1350720874e63bdaa9f684c450f8
+# Starting compiling Unity.2D.Animation.Runtime.dll
+/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-31695a1c8053c473ebba1ad41447ad3d
+# Starting compiling Unity.Mathematics.Editor.dll
+/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f0b4331eb30ee4c1eaffce1d4ce18b20
+# Starting compiling Unity.2D.SpriteShape.Runtime.dll
+/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-8bac816fb7d82441eab19b8c7fa65562
+# Starting compiling Unity.2D.Animation.Editor.dll
+/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-3d3c77822e0ec4134b4e2458311133e9
+# Starting compiling Unity.2D.SpriteShape.Editor.dll
+/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c0002d911a3e3470d88c6e7f0b6c5f2c
+# Starting compiling Unity.2D.IK.Editor.dll
+/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-ed8991e78e860475dad60e3fe1641848
+# Starting compiling Unity.2D.Psdimporter.Editor.dll
+/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-54dcaa262248545cfb145f16ebbb6052
+# Starting compiling Assembly-CSharp.dll
+/Users/game1-18/Downloads/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f52f4dece394344dfaeec2a3cce8c1f4
