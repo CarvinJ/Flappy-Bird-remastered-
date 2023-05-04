@@ -10,8 +10,16 @@ public class BirdController : MonoBehaviour
     {
         bird = GetComponent<Rigidbody2D>();
     }
-       
+     void OnTriggerEnter2D(Collider2D other) 
+     {
+        if(other.gameobject.CompareTag("Points"))
+       {
+           // Increase score by 1 
+           score = score + 1;
 
+           scoreUI.text = score.ToString();
+       } 
+    }
     // Update is called once per frame
     void Update()
     {
